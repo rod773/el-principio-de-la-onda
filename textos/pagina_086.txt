@@ -1,0 +1,4 @@
+Las  mismas  reglas  rigen  tanto  las  extensiones  como  las  extensiones  de  extensiones.  
+En  la  Figura  31  se  muestran  tres  tipos  de  extensiones  de  extensiones  y  el  tipo  estándar.
+Figura  30
+Extensiones  de  extensiones

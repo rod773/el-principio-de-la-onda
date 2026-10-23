@@ -1,0 +1,21 @@
+1)  Las  ondas  en  la  dirección  del  movimiento  principal,  o  las  ondas  impares,  están  formadas
+por  cinco  ondas  más  pequeñas.
+Si  este  movimiento  también  se  dividiera  en  ondas  de  un  grado  menor,  se  vería  como  en  
+la  Figura  4.
+Figura  4
+Obsérvese,  en  la  Figura  4,  que  la  segunda  onda  (onda  1  a  2)  y  la  cuarta  onda  (onda  3  a  4)  
+están  compuestas  cada  una  por  tres  ondas  más  pequeñas,  mientras  que  las  ondas  uno,  tres  
+y  cinco  tienen  cada  una  cinco  ondas  más  pequeñas.  Las  reglas  que  se  derivan  de  esta  
+ilustración  —y  estas  reglas  son  fundamentales  para  todo  el  tema  de  las  ondas—  son:
+2)  Las  ondas  correctivas,  u  ondas  que  van  en  contra  del  movimiento  principal  (ondas
+pares),  están  formadas  por  tres  ondas  más  pequeñas.
+Para  ilustrar  mejor  las  reglas  anteriores,  tomemos  el  movimiento  1  a  2  en  la  Figura  4.
+Esta  fue  la  segunda  onda  del  movimiento  completo  de  cinco  ondas  de  M  a  N,  y  se  componía,  
+como  todos  los  movimientos  correctivos,  de  tres  ondas.  Sin  embargo,  las  tres  ondas  del  
+movimiento  1  a  2,  al  aislarse,  formaban  un  movimiento  correctivo  distinto.  Según  las  reglas  
+anteriores,  las  ondas  impares  (o  ondas  a  y  c),  al  estar  en  la  dirección  de  todo  el  movimiento  
+correctivo  1  a  2,  deberían  estar  compuestas  cada  una  de  cinco  ondas  menores,  mientras  que  
+la  onda  par  (o  onda  b),  que  va  en  contra  de  la  dirección  del  movimiento  1  a  2  y,  por  lo  tanto,  es  
+una  corrección  en  dicho  movimiento,  debería  estar  compuesta  de  tres  ondas.  Si  ahora  
+representamos  el  movimiento  1  a  2  en  términos  de  sus  ondas  menores,  aparecerá  como  en  la  
+Figura  5.

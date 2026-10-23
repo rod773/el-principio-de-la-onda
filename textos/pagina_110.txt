@@ -1,0 +1,10 @@
+Fracasos
+Figura  41
+En  el  patrón  mostrado  en  la  Figura  42,  la  quinta  onda  no  se  materializó  y  las  acciones  deberían  
+venderse  en  "B".  Nótese  que  hay  cinco  ondas  descendentes  desde  el  máximo  en  "3",  mientras  
+que  una  corrección  debería  constar  de  tres  ondas.  La  respuesta  es  que  "B"  es  el  máximo  real  
+desde  el  cual  solo  se  registraron  tres  ondas  descendentes.  Es  decir,  el  descenso  robó  dos  
+ondas  al  avance.  Dicho  de  otro  modo,  el  número  habitual  de  ondas  ascendentes  es  cinco  
+más  el  número  habitual  de  ondas  descendentes  es  tres,  lo  que  da  un  total  de  ocho.  En  este  
+caso,  hubo  tres  ondas  ascendentes  y  cinco  descendentes,  lo  que  da  un  total  de  ocho.  Estos  
+patrones  son  poco  comunes,  pero  constituyen  una  seria  advertencia  y  deben  tomarse  medidas  de  inmediato.

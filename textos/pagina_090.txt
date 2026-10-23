@@ -1,0 +1,4 @@
+Si  bien  el  primer  retroceso  se  producirá  de  inmediato  y  en  tres  ondas,  
+el  segundo  podría  tardar  bastante  en  desarrollarse,  pero  finalmente  
+concluirá  en  el  ciclo  actual.  El  patrón  de  una  extensión¹¹  y  un  doble  
+retroceso  se  ilustra  en  la  Figura  32.

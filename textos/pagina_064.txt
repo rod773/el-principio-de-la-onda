@@ -1,0 +1,14 @@
+A  veces,  cerca  de  un  punto  de  lanzamiento,  una  quinta  onda  no  se  completará  de  
+inmediato  y  la  cuarta  onda  se  aplanará  antes  de  que  comience  la  quinta  (ver  Figura  18).
+Figura  18
+Para  identificar  cambios  bruscos  de  precio,  se  recomienda  encarecidamente  una  escala  
+logarítmica  para  aquellos  gráficos  en  los  que  el  mercado,  o  las  acciones  individuales,  se  
+pueden  seguir  mediante  el  rango  de  precios  semanal,  mientras  que  se  debe  utilizar  una  
+escala  aritmética  para  los  gráficos  de  rango  diario  y  horario.  En  los  máximos  de  los  
+movimientos  primarios  y  de  mayor  grado,  la  escala  aritmética  tiene  mucha  más  probabilidad  
+de  generar  cambios  bruscos  de  precio,  mientras  que  en  los  mínimos  de  dichos  movimientos  
+ocurre  lo  contrario;  es  decir,  la  escala  logarítmica  es  más  propensa  a  generarlos.  En  ambos  
+casos,  la  escala  aritmética  resultaría  engañosa,  por  ejemplo,  en  ondas  de  30  puntos  o  
+más.  Para  ilustrar  claramente  una  de  las  afirmaciones  anteriores,  en  la  Figura  19  se  muestra  
+un  gráfico  de  rango  mensual  del  movimiento  del  Dow  Jones  Industrial  Average  entre  1929  y  
+1932,  tanto  en  escala  logarítmica  como  aritmética.

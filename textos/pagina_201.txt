@@ -1,0 +1,4 @@
+Los  ciclos  de  diferentes  elementos  no  coinciden  en  cuanto  a  su  máximo  y  mínimo.  Dos  o  más  pueden  
+alcanzar  su  máximo  al  mismo  tiempo,  pero  su  mínimo  en  fechas  muy  diferentes,  o  viceversa.  A  
+continuación  se  detallan  algunos  ejemplos:
+Figura  78
